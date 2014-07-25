@@ -1,0 +1,3 @@
+[submodule "beercellar"]
+	path = beercellar
+	url = https://github.com/hansmosh/beercellar.git
